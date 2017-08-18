@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale="1.0">
+<script async="" src="//www.google-analytics.com/analytics.js"></script>
+<script src="/js/modernizr-2.5.3.min.js"></script>
+<!--[if lt IE 9]>
+<script src="/js/respond.min.js"></script>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<title> WELCOME TO MUDULE 2</title>
+<body>
+
+</body>
